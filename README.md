@@ -2,7 +2,7 @@
   👋 Hi there
 </h1>
 <h3 align="left">
-  Middle Java Developer <br>
+  Java Developer <br>
   Graduate student of Bauman Moscow State Technical University
 </h3>
 
